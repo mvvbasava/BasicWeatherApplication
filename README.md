@@ -1,4 +1,6 @@
 # BasicWeatherApplication
 Weather Application
 
-<img width="428" height="913" alt="image" src="https://github.com/user-attachments/assets/e8528c15-f7e3-48af-9a01-4eca3f2697fd" />
+# Main Screen ScreenShot
+<img width="468" height="1001" alt="image" src="https://github.com/user-attachments/assets/092d8c62-bc8d-4670-9804-44b3103d08ee" />
+
